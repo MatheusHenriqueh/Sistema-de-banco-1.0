@@ -1,5 +1,5 @@
 #Projeto de Banco
-#Matheus Ruivo
+#Matheus Henrique
 #Data: 11/10/2025
 #Treino para if, else e elif
 
@@ -56,4 +56,5 @@ if entrada == "entrar":
 elif entrada == "sair":
     print("Você saiu do sistema do banco!")
 else:
+
     print("Você não digitou nem sair e nem entrar!")    
